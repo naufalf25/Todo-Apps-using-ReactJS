@@ -1,6 +1,6 @@
 # Todo List Apps Using ReactJS
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/naufalf25/Todo-Apps-using-ReactJS)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/naufalf25/Todo-Apps-using-ReactJS) ![GitHub](https://img.shields.io/github/license/naufalf25/Todo-Apps-using-ReactJS)
 
 This project is my first project using ReactJS. This is my learning progress about ReactJS Framework. You are very welcome to clone and contribute to this repository.
 
