@@ -1,8 +1,9 @@
 # Todo List Apps Using ReactJS
 
 <p>
-  <a href="https://www.youtube.com/channel/UC-SK0K7JdpU0YgNcgE69dMA?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a>
+  <a href="https://www.youtube.com/channel/UC-SK0K7JdpU0YgNcgE69dMA">
+   <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC-SK0K7JdpU0YgNcgE69dMA&key=AIzaSyAHuAyutFsBK-PO1Xp1eqpBdK_X3c1wCaw"/>
+</a>
 </p>
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/naufalf25/Todo-Apps-using-ReactJS) ![Profile View Counter](https://komarev.com/ghpvc/?username=naufalf25)
