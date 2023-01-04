@@ -1,10 +1,8 @@
 # Todo List Apps Using ReactJS
 
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1">
-        <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a>
-  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/naufalf25/Todo-Apps-using-ReactJS) ![Profile View Counter](https://komarev.com/ghpvc/?username=naufalf25)
-</p>
+<a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1">
+  <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a>
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/naufalf25/Todo-Apps-using-ReactJS) ![Profile View Counter](https://komarev.com/ghpvc/?username=naufalf25)
 
 This project is my first project using ReactJS. This is my learning progress about ReactJS Framework. You are very welcome to clone and contribute to this repository.
 
